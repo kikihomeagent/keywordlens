@@ -3,7 +3,8 @@
 > ASO Keyword Research SaaS for indie developers
 
 **Status:** 🚧 In Development  
-**PRD:** [KeywordLens PRD](docs/PRD.md)
+**PRD:** [KeywordLens PRD](docs/PRD.md)  
+**📋 Mission Control:** [Project Tasks](../../workspace/MISSION_CONTROL.md)
 
 ## What is KeywordLens?
 
